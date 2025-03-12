@@ -118,14 +118,14 @@ h1 {
 /* Fonts */
 @font-face {
     font-family: 'Providence-Sans';
-    src: url(Resources/Font/Providence\ Sans\ Regular.ttf) format('truetype');
+    src: url(Fonts/Providence\ Sans\ Regular.ttf) format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Pacifico-Regular';
-    src: url(Resources/Font/Pacifico\ Regular.ttf) format('truetype');
+    src: url(Fonts/Pacifico\ Regular.ttf) format('truetype');
     font-weight: normal;
     font-style: normal;
 }
